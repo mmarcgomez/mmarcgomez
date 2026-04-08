@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Mar 👋
 
-<!--
-**mmarcgomez/mmarcgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development student focused on building backend systems and exploring AI agents.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+I’m currently studying multiplatform application development while diving into artificial intelligence and system design.
+
+I’m especially interested in:
+- how AI systems work internally  
+- building simple agents with real behavior  
+- backend logic and problem solving  
+
+---
+
+## 🧠 Current Focus
+
+- AI Agents & LLMs (OpenAI, HuggingFace, Ollama)  
+- Python & backend development  
+- Prompt design and response handling  
+- Understanding system architecture  
+
+---
+
+## 🧩 Projects
+
+### 🤖 AI Agent  
+Experimenting with LLMs, prompt handling and response generation.  
+Focused on understanding how agents behave and interact.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📈 Learning Path
+
+- Building small AI agents  
+- Improving backend skills  
+- Exploring how to design intelligent systems step by step  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/mmarcgomez
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmarcgomez&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=building+ai+agents...;learning+backend+systems...;understanding+how+things+work..." />
+</p>
