@@ -52,9 +52,6 @@ Focused on understanding how agents behave and interact.
 
 - GitHub: https://github.com/mmarcgomez
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mmarcgomez&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=building+ai+agents...;learning+backend+systems...;understanding+how+things+work..." />
